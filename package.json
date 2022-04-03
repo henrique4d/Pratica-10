@@ -4,7 +4,7 @@
   "description": "Exemplo de Multiplayer do Scott Westover",
   "main": "index.js",
   "engines": {
-    "node": "v14.17.6v14.17.6"
+    "node": "v14.17.6"
   },
   "scripts": {
     "start": "node index.js"
