@@ -1,19 +1,27 @@
-
 {
   "name": "multiplayer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Exemplo de Multiplayer do Scott Westover",
   "main": "index.js",
- "engines": {
-    "node": "10.x"
+  "engines": {
+    "node": "v14.17.6v14.17.6"
   },
   "scripts": {
     "start": "node index.js"
-},
-"dependencies": {
-    "express": "^4.17.1",
+  },
+  "dependencies": {
+    "express": "^4.17.3",
     "socket.io": "^2.1.1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrique4d/Pratica-10.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/henrique4d/Pratica-10/issues"
+  },
+  "homepage": "https://github.com/henrique4d/Pratica-10#readme"
 }
